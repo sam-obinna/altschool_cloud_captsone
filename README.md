@@ -1,4 +1,4 @@
-# Deploying the Sock-Shop Microservice on a Kubernetes Cluster
+# Deploying the eccomerce Shop Microservice on a Kubernetes Cluster
 
 ## Objectives
 
